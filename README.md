@@ -1,5 +1,5 @@
 # CTFFF
 Capture the Flag for Fun
-Solved Challenges:
+# Solved Challenges:
 - Toxic
 - Gunship
