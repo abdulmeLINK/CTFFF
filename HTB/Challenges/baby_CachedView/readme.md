@@ -17,4 +17,4 @@ Solution almost clear even with these facts.
 - Redirecting using your own domain with creating redirector script with few lines of code.
 - Using url shortener. (Preffered)
 
-[Python Code](http://github.com/abdulmeLINK/blob/main/CTFF/HTB/Challenges/baby_CachedView/trick.py)
+[Python Code](https://github.com/abdulmeLINK/CTFFF/blob/main/HTB/Challenges/baby_CachedView/trick.py)
