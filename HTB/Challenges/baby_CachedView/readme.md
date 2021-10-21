@@ -5,7 +5,7 @@
 Solution almost clear even with these facts.
 
 - /api/cache takes an url in JSON format.
-  for example: {"url":"https://github.com/abdulmeLINK"}
+  for example: [code]{"url":"https://github.com/abdulmeLINK"}[/code]
   
 - /flag route has white list filter that only grants 127.0.0.1
 
