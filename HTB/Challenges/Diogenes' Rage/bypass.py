@@ -2,7 +2,7 @@
 
 import requests
 
-url = "http://104.248.168.109:32493/api/coupons/apply"
+url = "http://IP:PORT/api/coupons/apply"
 
 s = requests.session()
 
